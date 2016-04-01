@@ -89,8 +89,8 @@ fBodyBodyGyroJerkMagStd
 fBodyBodyGyroJerkMagMeanFreq
 Activity Labels
 
-1 = Walking: participant was walking during the test
-2 = Walkng Upstairs: participant was walking up a staircase during the test
+1 = WALKING: participant was walking during the test
+2 = WALKING_UPSTAIRS: participant was walking up a staircase during the test
 3 = WALKING_DOWNSTAIRS: participant was walking down a staircase during the test
 4 = SITTING: participant was sitting during the test
 5 = STANDING: participant was standing during the test
